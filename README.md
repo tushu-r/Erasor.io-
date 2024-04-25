@@ -1,11 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-![Build   Deploy Erasor io Clone Using Next Js   React with Typescript](https://github.com/rrs301/erasor_clone/assets/20216436/f4ef3da0-b1f6-4f5b-b69d-da0bf0066e37)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`]
+![Build   Deploy Erasor io Clone Using Next Js   React with Typescript]
 
 
 ## Tech Stack
 - Next.Js
 - React
-- [Convex](https://convex.dev/c/tubeguruji)
+- [Convex](https://convex.dev)
 - [Kinde] (https://kinde.com/)
 - Tailwind Css
 - Typescript
